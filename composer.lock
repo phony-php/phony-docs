@@ -169,7 +169,7 @@
         },
         {
             "name": "illuminate/container",
-            "version": "v6.18.5",
+            "version": "v6.18.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/container.git",
@@ -213,7 +213,7 @@
         },
         {
             "name": "illuminate/contracts",
-            "version": "v6.18.5",
+            "version": "v6.18.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/contracts.git",
@@ -257,7 +257,7 @@
         },
         {
             "name": "illuminate/events",
-            "version": "v6.18.5",
+            "version": "v6.18.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/events.git",
@@ -302,7 +302,7 @@
         },
         {
             "name": "illuminate/filesystem",
-            "version": "v6.18.5",
+            "version": "v6.18.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/filesystem.git",
@@ -354,7 +354,7 @@
         },
         {
             "name": "illuminate/support",
-            "version": "v6.18.5",
+            "version": "v6.18.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/support.git",
@@ -415,7 +415,7 @@
         },
         {
             "name": "illuminate/view",
-            "version": "v6.18.5",
+            "version": "v6.18.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/view.git",
@@ -698,12 +698,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phony-php/phony.git",
-                "reference": "4980149ac9dcb6b9eca702cd824621a72b9092fc"
+                "reference": "e3ad69577dea1b0eb6ae9c528c1c56b7ddb25b95"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phony-php/phony/zipball/4980149ac9dcb6b9eca702cd824621a72b9092fc",
-                "reference": "4980149ac9dcb6b9eca702cd824621a72b9092fc",
+                "url": "https://api.github.com/repos/phony-php/phony/zipball/e3ad69577dea1b0eb6ae9c528c1c56b7ddb25b95",
+                "reference": "e3ad69577dea1b0eb6ae9c528c1c56b7ddb25b95",
                 "shasum": ""
             },
             "require": {
@@ -737,7 +737,7 @@
                 "package",
                 "phony"
             ],
-            "time": "2020-04-07T17:37:36+00:00"
+            "time": "2020-04-08T21:23:56+00:00"
         },
         {
             "name": "phpoption/phpoption",

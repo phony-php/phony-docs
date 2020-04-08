@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9c421935568ce73fa6d0461f08bcb23c",
+    "content-hash": "c9e7e50cc0ac7f691e1e6d25f094a533",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -691,6 +691,53 @@
                 }
             ],
             "time": "2020-03-31T13:43:19+00:00"
+        },
+        {
+            "name": "phony-php/phony",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phony-php/phony.git",
+                "reference": "4980149ac9dcb6b9eca702cd824621a72b9092fc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phony-php/phony/zipball/4980149ac9dcb6b9eca702cd824621a72b9092fc",
+                "reference": "4980149ac9dcb6b9eca702cd824621a72b9092fc",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.4"
+            },
+            "require-dev": {
+                "ext-mbstring": "*",
+                "phpunit/phpunit": "^9.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Phony\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Yunus Emre Deligöz",
+                    "email": "ye@deligoz.me",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Phony is a PHP package that can generate a wide range of fake data",
+            "homepage": "https://github.com/phony-php/phony",
+            "keywords": [
+                "faker",
+                "package",
+                "phony"
+            ],
+            "time": "2020-04-07T17:37:36+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -2074,7 +2121,9 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "phony-php/phony": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

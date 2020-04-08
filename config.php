@@ -3,10 +3,11 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'http://phony-docs.test',
     'production' => false,
-    'siteName' => 'Docs Starter Template',
-    'siteDescription' => 'Beautiful docs powered by Jigsaw',
+    'siteName' => 'Phony',
+    'emojiName' => '🙃',
+    'siteDescription' => 'The PHP Faker Documentation',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',

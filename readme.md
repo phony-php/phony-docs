@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Phony `PHP` Faker Documentation
+# Phony `PHP` Fake Data Generator Documentation
 
 </div>
 

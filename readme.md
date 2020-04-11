@@ -10,9 +10,8 @@
 
 </div>
 
-## Developing
-
 **Phony** uses the [Jigsaw](http://jigsaw.tighten.co/) static site generator for its documentation.
+
 Here is how you can generate the documentation locally:
 
 1. Go to your `phony-docs` folder

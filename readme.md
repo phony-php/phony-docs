@@ -14,31 +14,37 @@
 
 Here is how you can generate the documentation locally:
 
-1. Go to your `phony-docs` folder
+1. Clone the `phony-docs` repository.
+
+    ```sh
+    git clone https://github.com/phony-php/phony-docs.git
+    ```
+
+2. Go to your `phony-docs` folder
 
     ```sh
     cd docs
     ```
 
-2. Install `JS` dependencies
+3. Install `JS` dependencies (requires [npm](https://www.npmjs.com/))
 
     ```sh
     npm install
     ```
 
-3. Install `PHP` dependencies for docs (requires Composer: https://getcomposer.org)
+4. Install `PHP` dependencies for docs (requires [composer](https://getcomposer.org))
 
     ```sh
     composer install
     ```
 
-4. Run the build to generate the static site
+5. Run the build to generate the static site
 
     ```sh
     npm run dev
     ```
 
-5. View the static site at `/build_local`, or you can run the Jigsaw server:
+6. View the static site at `/build_local`, or you can run the Jigsaw server:
 
     ```sh
     ./vendor/bin/jigsaw serve

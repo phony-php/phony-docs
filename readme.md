@@ -10,7 +10,7 @@
 
 </div>
 
-**Phony** uses the [Jigsaw](http://jigsaw.tighten.co/) static site generator for its documentation.
+[Phony](https://github.com/phony-php/phony) uses the [Jigsaw](http://jigsaw.tighten.co/) static site generator for its documentation.
 
 Here is how you can generate the documentation locally:
 

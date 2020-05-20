@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Phony Logo](https://raw.githubusercontent.com/phony-php/phony/master/.github/asset/phony-logo.png)](https://github.com/phony-php/phony-docs)
+[![Phony Logo](https://raw.githubusercontent.com/phonyland/phony/master/.github/asset/phony-logo.png)](https://github.com/phonyland/phony-docs)
 
 </div>
 
@@ -10,14 +10,14 @@
 
 </div>
 
-[Phony](https://github.com/phony-php/phony) uses the [Jigsaw](http://jigsaw.tighten.co/) static site generator for its documentation.
+[Phony](https://github.com/phonyland/phony) uses the [Jigsaw](http://jigsaw.tighten.co/) static site generator for its documentation.
 
 Here is how you can generate the documentation locally:
 
 1. Clone the `phony-docs` repository.
 
     ```sh
-    git clone https://github.com/phony-php/phony-docs.git
+    git clone https://github.com/phonyland/phony-docs.git
     ```
 
 2. Go to your `phony-docs` folder

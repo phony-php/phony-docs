@@ -3,7 +3,7 @@
         "tightenco/jigsaw": "^1.3",
         "tightenco/jigsaw-docs-template": "^1.0",
         "samdark/sitemap": "^2.2",
-        "phony-php/phony": "dev-master"
+        "phonyland/phony": "dev-master"
     },
     "autoload": {
         "psr-4": {

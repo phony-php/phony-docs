@@ -1,10 +1,10 @@
 @php
-    $🙃 = (new Phony\Phony('en'));
+    $🙃 = (new Phonyland\Phony('en'));
 @endphp
 
 <pre>
 <code class="language-php hljs">
-use Phony\Phony;
+use Phonyland\Phony;
 
 $🙃 = new Phony('en');
 

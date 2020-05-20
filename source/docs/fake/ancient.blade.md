@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 @php
-$🙃 = (new Phony\Phony('en'));
+$🙃 = (new Phonyland\Phony('en'));
 @endphp
 
 

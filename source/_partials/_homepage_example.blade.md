@@ -3,7 +3,7 @@
 @endphp
 
 <pre>
-<code class="language-php hljs">
+<code class="language-php">
 use Phonyland\Phony;
 
 $🙃 = new Phony('en');

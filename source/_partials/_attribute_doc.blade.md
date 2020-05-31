@@ -1,4 +1,4 @@
-### {{ $attribute }}
+### [# {{ $attribute }}](#{{ Illuminate\Support\Str::slug($attribute)}}){ #{{ Illuminate\Support\Str::slug($attribute)}} }
 
 {{ $description }}
 

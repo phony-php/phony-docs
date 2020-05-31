@@ -1,10 +1,6 @@
-import hljs from 'highlight.js/lib/highlight';
-
 window.docsearch = require('docsearch.js');
 
-hljs.registerLanguage('bash', require('highlight.js/lib/languages/bash'));
-hljs.registerLanguage('php', require('highlight.js/lib/languages/php'));
+import Turbolinks from 'turbolinks'
 
-document.querySelectorAll('pre code').forEach((block) => {
-    hljs.highlightBlock(block);
-});
+Turbolinks.setProgressBarDelay(0);
+Turbolinks.start()

@@ -62,8 +62,8 @@
     <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
         <div class="flex items-center">
             <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                <h1 class="text-5xl text-gray-600 font-cursive pt-8 pr-4">
-                    <span>{{ $page->emojiName }}</span> {{ $page->siteName }}
+                <h1 class="text-6xl text-gray-600 font-cursive pt-10 pr-4">
+                    <span class="text-5xl">{{ $page->emojiName }}</span> {{ $page->siteName }}
                 </h1>
             </a>
         </div>

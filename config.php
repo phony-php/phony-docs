@@ -7,7 +7,7 @@ return [
     'production' => false,
     'siteName' => 'Phony',
     'emojiName' => '🙃',
-    'siteDescription' => 'PHP Fake Data Generator',
+    'siteDescription' => 'PHP Fake Data Generation Library',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',

@@ -1,16 +1,16 @@
 <div align="center">
 
-[![Phony Logo](https://raw.githubusercontent.com/phonyland/phony/master/.github/asset/phony-logo.png)](https://github.com/phonyland/phony-docs)
+[![Phony Logo](https://raw.githubusercontent.com/phonyland/artwork/master/logo.png)](https://github.com/phonyland)
 
 </div>
 
 <div align="center">
 
-# Phony `PHP` Fake Data Generator Documentation
+# Documentation
 
 </div>
 
-[Phony](https://github.com/phonyland/phony) uses the [Jigsaw](http://jigsaw.tighten.co/) static site generator for its documentation.
+[Phony](https://github.com/phonyland/phony) uses [Jigsaw](http://jigsaw.tighten.co/) static site generator for its documentation.
 
 Here is how you can generate the documentation locally:
 
@@ -49,3 +49,12 @@ Here is how you can generate the documentation locally:
     ```sh
     ./vendor/bin/jigsaw serve
     ```
+
+***
+
+> If you want to start generating fake data with Phony, visit the main **[Phony Repository](https://github.com/phonyland/phony)**.
+
+- Explore the docs: **[phony.land »](https://phony.land/)**
+- Follow us on Twitter: **[@phonyphp »](https://twitter.com/phonyphp)**
+
+Phony was created by **[Yunus Emre Deligöz](https://twitter.com/yedeligoez)** under the **[MIT license](https://opensource.org/licenses/MIT)**.

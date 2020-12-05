@@ -9,12 +9,12 @@ section: content
 
 ## Standard
 
-- [$🙃->address](address)
-- [$🙃->alphabet](alphabet)
-- [$🙃->ancient](ancient)
-- [$🙃->artist](artist)
-- [$🙃->coin](coin)
-- [$🙃->cosmere](cosmere)
-- [$🙃->currency](currency)
-- [$🙃->person](person)
-- [$🙃->slack_emoji](slack_emoji)
+- [$🙃->address](/docs/fake/address)
+- [$🙃->alphabet](/docs/fake/alphabet)
+- [$🙃->ancient](/docs/fake/ancient)
+- [$🙃->artist](/docs/fake/artist)
+- [$🙃->coin](/docs/fake/coin)
+- [$🙃->cosmere](/docs/fake/cosmere)
+- [$🙃->currency](/docs/fake/currency)
+- [$🙃->person](/docs/fake/person)
+- [$🙃->slack_emoji](/docs/fake/slack_emoji)
